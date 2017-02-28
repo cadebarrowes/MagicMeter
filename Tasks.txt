@@ -1,0 +1,71 @@
+Accomplished Tasks:
+
+	2/23/17
+Added Magic Meter texture from golden hoe
+
+	2/24/17
+Retextured Magic Meter to smaller size and made 16 versions states of it
+
+	2/25/17
+Added nicer looking ZW logo using Breath of the Wild flowers
+
+	2/26/17
+Added Commands "/mm start" and "/mm stop" functional
+	Added Bukkit schedules refil magic meter
+	Added Bukkit schedules give a golden hoe of proper durability
+	Added start and stop messages such as "Starting MagicMeter" and "Stopping MagicMeter"
+	Added error messages such as "Magic Meter is still going!" or "You haven't started Magic Meter yet!"
+Changed magic meter variables to make them assigned to each player (via Metadata)
+---Attempted to hide the golden hoe's durability and keep the texture changes (failed and gave up)---
+Added name and lore Metadata to the golden hoe/the magic meter
+Added a task list (this) and updated it with previous accomplishments (times based on when I posted it on discord)
+
+
+
+Tasks to do:
+
+Learn GitHub
+	https://guides.github.com/activities/hello-world/
+	
+Learn FileZilla
+
+Protect player's access to infinite golden hoes somehow
+	delete it in every slot of their inventory except offhand
+	delete it on the ground
+	make it ungrabbable?
+
+Bombs
+	Learn entity placement
+	Learn events on right clicking / assigning to items
+	Large creeper explosion at last second
+		or make TNT an illusion?
+		armor stands to make it look like zelda bomb?
+
+Light arrows
+	Make arrows glow with entity glow status effect (maybe possible?)
+		Give entity hit glowing status effect as well
+		light particles trailing arrow
+	Turn off light arrow gravity
+	Make light arrows disapear if they go to high
+	Explode glowstone falling sand?
+	Small creeper explosion?
+	
+Fire Rod
+	Make 5 vertical fire bursts a block apart in the direction the player is looking
+		Player location (easy)
+		Direction player is facing
+		Fire particles
+		Right-click event on item
+		
+Ice Rod
+	Make floating packed ice falling sand blocks in a clump forward and above player
+	packed ice falls upon letting go of right click
+	
+Wind Rod
+	Knockback stick amirite
+
+
+
+
+
+

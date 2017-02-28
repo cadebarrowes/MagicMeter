@@ -1,0 +1,12 @@
+main: com.tadninja.magicmeter.MainClass
+version: 1.0
+name: MagicMeter
+
+commands:
+  hello:
+    description: A friendly greeting to the console
+  goodbye: 
+    description: Teleports player to a farewell
+  mm:
+    description: Starts and stops magic meter
+    usage: /mm <start/stop>
