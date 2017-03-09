@@ -24,8 +24,6 @@ Added a task list (this) and updated it with previous accomplishments (times bas
 
 Tasks to do:
 
-Learn GitHub
-	https://guides.github.com/activities/hello-world/
 	
 Learn FileZilla
 
